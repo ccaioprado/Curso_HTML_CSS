@@ -1,0 +1,30 @@
+body {
+  background-color: bisque;
+}
+
+h1 {
+  /* Vamos aplicar a fonte arial */
+  font-family: "arial";
+  /* Vamos alterar o tamanho da letra para 20pt */
+  font-size: 20pt;
+  /* Alterar a cor da letra */
+  color: white;
+  /* Alinhar o texto na horizontal */
+  text-align: center;
+}
+
+p {
+  font-family: "arial";
+  font-size: 20pt;
+  color: white;
+  text-align: center;
+  /* Aplicar margem ao lado esquerdo e direito */
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+img {
+  /* Alterar a largura da imagem com o comando width  */
+  width: 80%;
+  height: auto;
+}
